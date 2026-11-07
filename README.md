@@ -5,6 +5,8 @@ attention layers, and what the lab and its customers could gain.*
 
 [Version française](README.fr.md)
 
+![SAWM & Basira: four ways to plug a memory into the model, and the flashback loop](assets/sawm-basira-memory-in-the-model.png)
+
 ## In short
 
 Three words recur throughout this article. A **token** is a piece of a word: 1,000 tokens are about 750 English
